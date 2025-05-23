@@ -118,7 +118,7 @@ This project is based on [IainMosima/bulk-email-sender](https://github.com/IainM
 ## 🙏 Credits
 
 - Original script and functionality: [IainMosima/bulk-email-sender](https://github.com/IainMosima/bulk-email-sender)
-- UI/UX enhancements: [Your Name/Username]
+- UI/UX enhancements: [James Shacquille]
 
 
 ## 📄 License
