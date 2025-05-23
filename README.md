@@ -105,7 +105,7 @@ npm run dev
 
 ## 📝 About This Project
 
-This project is based on [IainMosima/bulk-email-sender](https://github.com/IainMosima/bulk-email-sender) with enhanced UI/UX. The original script and core functionality were created by IainMosima - this version focuses on creating a modern, user-friendly interface around the original functionality.
+This project is based on [IainMosima/bulk-email-sender](https://github.com/IainMosima/bulk-email-sender).The original script and core functionality were created by IainMosima - this version focuses on creating a modern, user-friendly interface around the original functionality.
 
 ## ⚠️ Important Notes
 
